@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <meta charset="utf-8">    
+    <title>Урок №1</title>   
+    <body>
 <h1> Информация о себе </h1>
 <?php
 error_reporting(E_ALL);
@@ -16,4 +22,6 @@ echo ' Город:  ', $city;
 echo '</br>';
 echo ' О себе:  ', $about;
 ?>
-
+    </body>
+  </head>
+</html>
