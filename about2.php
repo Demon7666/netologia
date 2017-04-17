@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>    
+        <meta charset="utf-8">   
+        <title>Урок №2</title>  
+        <body>
+
+
 <?php
 error_reporting(E_ALL);
 $x = rand (0,10);
@@ -20,3 +28,8 @@ while (true) {
     }
 }
 ?>
+        </body>
+    </head>
+</html>
+
+            
